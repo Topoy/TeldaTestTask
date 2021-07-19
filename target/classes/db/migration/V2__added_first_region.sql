@@ -1,0 +1,1 @@
+insert into regions (id, name, short_name) values ('1', 'Республика Адыгея', 'АДГ');

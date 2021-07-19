@@ -1,0 +1,1 @@
+create table regions (id int(10) not null, name varchar(255), short_name varchar(255));
